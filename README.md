@@ -1,1 +1,2 @@
-# The-News
+# thenews
+ my first react app
